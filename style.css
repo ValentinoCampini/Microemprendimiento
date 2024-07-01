@@ -1,0 +1,141 @@
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+header ul{
+    display: flex;
+    flex-direction: row;
+}
+header ul li{
+    margin: 10px;
+}
+
+img{
+    width: 120px;
+}
+
+h1{
+font-size: 34px;
+color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 10px 0 10px 0;
+}
+
+.caja{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color:  rgb(69, 71, 212) ;
+}
+
+.caja img{
+    width: 245px;
+    height: 245px;
+    border-radius: 20%;
+}
+.caja p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.servivios{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color:;
+}
+
+.cajon{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    flex-direction: row;
+    
+    
+}
+.cajon img{
+    width: 245px;
+    height: 245px;
+    border-radius: 20%;
+}
+.impacto{
+    display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 10px 0 10px 0;
+}
+.cajita{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(69, 71, 212);
+}
+.cajita img{
+    width: 245px;
+    height: 245px;
+    border-radius: 20%;
+}
+    
+    
+#SERVICIOS{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#SERVICIOS{
+    padding: 10px;
+    margin: 10px;
+}
+#CONTACTO{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#CONTACTO{
+    padding: 10px;
+    margin: 10px;
+}
+#NOSOTROS{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#NOSOTROS{
+    padding: 10px;
+    margin: 10px;
+}
+#IMPACTO{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#IMPACTO{
+    padding: 10px;
+    margin: 10px;
+}
